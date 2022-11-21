@@ -1,0 +1,25 @@
+.outerContainer{
+    background-image: url('https://global-uploads.webflow.com/5fad195767bb5f0163efac7f/613866ad9ea937e77b9afbb5_web-bannner-v1.jpg');
+}
+
+.innerContainer{
+    padding: 32px 32px 64px 32px;
+}
+
+.largeText{
+    margin-top: 24px;
+    color: #fff;
+    font-size: 48px;
+    line-height: 56px;
+    font-weight: 600;
+    letter-spacing: -.02em;
+}
+.mediumText{
+    margin-top: 24px;
+    color: #fff;
+    font-size: 40px;
+    line-height: 56px;
+    font-weight: 600;
+    letter-spacing: -.02em;
+}
+
